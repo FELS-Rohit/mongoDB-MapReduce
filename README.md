@@ -2,6 +2,7 @@ MapReduce in MongoDB
 =================
 
 Demo : http://runnable.com/U1fmE30iHWMIGY_r/mapreduce-in-mongodb-for-node-js
+
 Tutorial: http://thejackalofjavascript.com/mapreduce-in-mongodb
 
 Install
